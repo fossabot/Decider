@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FDecider.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FDecider?ref=badge_shield)
+
 = Decider
 <b>Yet Another Ruby Machine Learning Library</b>
 
@@ -51,3 +53,6 @@ Decider has several benchmarks that also double as integration tests. These are 
 Decider does a lot of math and is fairly computationally intensive, so you want all the extra speed you can get. It is regularly tested with Ruby 1.9 and Jruby. I highly recommend using one of these Ruby implementations if at all possible if you plan on doing anything serious with Decider.
 
 Also keep in mind that your dataset should reside entirely in memory or else you'll hit a brick wall.
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FDecider.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FDecider?ref=badge_large)
